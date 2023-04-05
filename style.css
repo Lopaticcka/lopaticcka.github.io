@@ -1,0 +1,67 @@
+* {
+    font-family: 'Consolas', serif;
+    
+}
+
+body,html {    
+    background-image: url("pictures/background.jpg");
+    background-color: rgb(184, 182, 182);
+    width: 100%;
+    padding-top: 1%;
+   }
+
+
+header {
+    background-color: #333333;
+    font-family: 'Merriweather', serif;
+    text-transform: uppercase;
+    width: 100%;
+    height: 50px;
+    position: absolute; top: 0; left: 0;
+    }
+
+nav {
+    display: inline-block;
+    float: right;
+    padding-top: 15px;
+    padding-right: 10%;
+    }
+
+h1 {
+    font-size: 40px;
+}
+
+a {
+    color:#ff0099;
+    padding-right: 20px;
+    }      
+
+img {
+    display: inline;
+    padding-top: 8px;
+    padding-left: 12%;
+    }
+
+ #threeDots {
+    text-align: center;
+    font-size: 20px;
+    padding-top: 50px;
+ }
+
+ h2 {
+    text-align: center;
+    font-size: 30px; 
+ }
+
+ #nadpisJunior {
+    color: #ff0099;
+    font-size: 25px;
+ }
+
+ #web {
+    padding: 0 10%;
+ }
+
+ #blog {
+    padding-top: 100px;
+ }
